@@ -2,6 +2,8 @@
 
 I'm Choy Min Han, a final-year Computer Science student passionate about building scalable backend systems and leveraging AI in practical applications. My skills span from designing robust microservices and distributed systems to optimizing performance and managing cloud infrastructure. I'm actively seeking opportunities to contribute to impactful projects in a professional environment.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choy050823)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Technical Skills
 
 * **Languages:** Golang, Java, Python, JavaScript, TypeScript, C, C++, C#
