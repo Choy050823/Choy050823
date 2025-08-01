@@ -49,18 +49,14 @@ _February 2024 - Present_
 
 ### Connect with Me
 
-* [**LinkedIn**](https://www.linkedin.com/in/yourprofile)
-* [**Email**](mailto:youremail@example.com)
-* [**Personal Website/Portfolio**](https://yourportfolio.com)
+* [**LinkedIn**](https://www.linkedin.com/in/choy-min-han)
+* [**Email**](mailto:choymh23@example.com)
+* [**Personal Website/Portfolio**](https://choyminhan-portfolio.web.app)
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on Building Full Stack Software Applications that combines Agentic AI
+- 🌱 I’m currently learning System Design and Distributed Systems
+- 👯 I’m looking to collaborate on any projects possible that is related to software and hardware!
+- 💬 Ask me about my learning journey in learning tech
+- ⚡ Fun fact: The programming languages that I knew is more than the languages that I learnt
