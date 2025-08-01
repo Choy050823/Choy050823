@@ -9,7 +9,7 @@ I'm Choy Min Han, a Year 2 Computer Science student at the National University o
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/choymh_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/choy-min-han) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choymh23@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/choymh_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/choy-min-han) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choymh23@gmail.com) [![Personal Website](https://img.shields.io/badge/Email-D14836?logo=website&logoColor=white)]([mailto:choymh23@gmail.com](https://choyminhan-portfolio.web.app/)) 
 
 # 💻 Tech Stack:
 #### Languages
