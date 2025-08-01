@@ -1,8 +1,8 @@
-<img width="938" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/9d66be73-6624-436f-b45a-c7de72285c30" />
+<img width="945" height="250" alt="github-header-image (1)" src="https://github.com/user-attachments/assets/3429aba2-c89e-4bdc-8642-cf7e7438e1e1" />
 
 ### Hi there 👋
 
-I'm Choy Min Han, a final-year Computer Science student passionate about building scalable backend systems and leveraging AI in practical applications. My skills span from designing robust microservices and distributed systems to optimizing performance and managing cloud infrastructure. I'm actively seeking opportunities to contribute to impactful projects in a professional environment.
+I'm Choy Min Han, a final-year Computer Science student passionate about building scalable backend systems and leveraging AI in practical applications. My skills span from designing robust microservices and distributed systems to optimising performance and managing cloud infrastructure. I'm actively seeking opportunities to contribute to impactful projects in a professional environment.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choy050823&show_icons=true&theme=radical&hide=prs,issues)
 
