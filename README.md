@@ -2,9 +2,7 @@
 
 ### Hi there 👋
 
-I'm Choy Min Han, a final-year Computer Science student passionate about building scalable backend systems and leveraging AI in practical applications. My skills span from designing robust microservices and distributed systems to optimising performance and managing cloud infrastructure. I'm actively seeking opportunities to contribute to impactful projects in a professional environment.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choy050823&show_icons=true&theme=radical&hide=prs,issues)
+I'm Choy Min Han, a Year 2 Computer Science student at the National University of Singapore (NUS), passionate about building scalable backend systems and leveraging AI in practical applications. My skills span from designing robust microservices and distributed systems to optimising performance and managing cloud infrastructure. I'm actively seeking opportunities to contribute to impactful projects in a professional environment.
 
 # 💫 About Me:
 🔭 I’m currently working on Building Full Stack Software Applications that combines Agentic AI<br>🌱 I’m currently learning System Design and Distributed Systems<br>👯 I’m looking to collaborate on any projects possible that is related to software and hardware!<br>💬 Ask me about my learning journey in learning tech<br>⚡ Fun fact: The programming languages that I knew is more than the languages that I learnt
