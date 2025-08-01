@@ -8,8 +8,17 @@ I'm Choy Min Han, a Year 2 Computer Science student at the National University o
 🔭 I’m currently working on Building Full Stack Software Applications that combines Agentic AI<br>🌱 I’m currently learning System Design and Distributed Systems<br>👯 I’m looking to collaborate on any projects possible that is related to software and hardware!<br>💬 Ask me about my learning journey in learning tech<br>⚡ Fun fact: The programming languages that I knew is more than the languages that I learnt
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/choymh_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/choy-min-han) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choymh23@gmail.com) [![Personal Website](https://img.shields.io/badge/Email-D14836?logo=website&logoColor=white)]([mailto:choymh23@gmail.com](https://choyminhan-portfolio.web.app/)) 
+### 🌐 Socials:
+
+Connect with me on:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/choymh_23)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/choy-min-han)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choymh23@gmail.com)
+
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://choyminhan-portfolio.web.app/)
 
 # 💻 Tech Stack:
 #### Languages
