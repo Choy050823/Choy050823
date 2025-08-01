@@ -12,13 +12,7 @@ I'm Choy Min Han, a Year 2 Computer Science student at the National University o
 
 Connect with me on:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/choymh_23)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/choy-min-han)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choymh23@gmail.com)
-
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://choyminhan-portfolio.web.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/choymh_23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/choy-min-han) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choymh23@gmail.com) [![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=black)](https://choyminhan-portfolio.web.app/)
 
 # 💻 Tech Stack:
 #### Languages
@@ -80,7 +74,7 @@ Connect with me on:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Choy050823&theme=dark&hide_border=false&include_all_commits=true&count_private=false)   
+![](https://github-readme-stats.vercel.app/api?username=Choy050823&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Choy050823&theme=dark&hide_border=false)<br/>
 
