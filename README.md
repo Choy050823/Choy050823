@@ -5,7 +5,7 @@
 I'm Choy Min Han, a Year 2 Computer Science student at the National University of Singapore (NUS), passionate about building scalable backend systems and leveraging AI in practical applications. My skills span from software engineering, cloud infrastructure and embedded systems. I'm actively seeking opportunities to contribute to impactful projects in a professional environment. You can view my technical portfolio here: https://choyminhan-portfolio.web.app/
 
 # 💫 About Me:
-🔭 I’m currently working on Building Full Stack Software Applications that leverages Agentic AI<br>🌱 I’m currently learning System Design and Mircroservice Architecture in Distributed Systems<br>👯 I’m looking to collaborate on any projects possible that is related to software and hardware!<br>💬 Ask me about my learning journey in learning tech<br>⚡ Fun fact: The programming languages that I knew is more than the languages that I learnt!
+🔭 I’m currently working on Building Full Stack Software Applications that leverages Agentic AI<br>🌱 I’m currently learning System Design and Mircroservice Architecture in Distributed Systems<br>👯 I’m looking to collaborate on any projects possible that is related to software and hardware!<br>💬 Ask me about my learning journey in learning tech<br>⚡ Fun fact: I love sports!
 
 
 ### 🌐 Socials:
